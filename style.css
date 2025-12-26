@@ -1,0 +1,49 @@
+body {
+  background-color: #eef6f0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* 제목 */
+h1 {
+  margin-top: 30px;
+}
+
+/* 시작 화면 안내 문구 */
+.start-info {
+  font-size: 14px;
+  color: #555;
+  margin-top: 10px;
+}
+
+/* 시작 화면 이미지 */
+.cover {
+  width: 300px;
+  margin: 20px 0;
+}
+
+/* 버튼 */
+button {
+  margin: 12px;
+  padding: 14px 32px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* 결과 점수 */
+.result {
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+/* 최대 점수 영역 */
+.max-score {
+  margin-top: 25px;
+  font-size: 14px;
+  text-align: left;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #444;
+}
